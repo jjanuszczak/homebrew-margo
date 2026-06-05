@@ -1,8 +1,8 @@
 class Margo < Formula
   desc "Markdown-to-slide-deck CLI with a Hugo-like project model"
   homepage "https://github.com/jjanuszczak/margo"
-  url "https://github.com/jjanuszczak/margo/archive/refs/tags/v0.1.1.tar.gz"
-  sha256 "4fa475ddacf179df56a25c787c4b4a8eac7979c9e9969cc6b0c37c01fb336200"
+  url "https://github.com/jjanuszczak/margo/archive/refs/tags/v0.1.2.tar.gz"
+  sha256 "6a630d2e89b0e8ece54a89284745e352cee6fe738bab0872295210b1f7ea4c80"
   license "Apache-2.0"
 
   depends_on "go" => :build
